@@ -1,0 +1,23 @@
+{
+  "jwt-login" : {
+    "key" : "on"
+  },
+  "new-dispatch-details" : {
+    "key" : "off"
+  },
+  "generate-settlement-link" : {
+    "key" : "on"
+  },
+  "show-delivery-price" : {
+    "key" : "on"
+  },
+  "new-dispatch" : {
+    "key" : "on"
+  },
+  "ignored-dispatch" : {
+    "key" : "3"
+  },
+  "deliverd-dispatch" : {
+    "key" : "on"
+  }
+}
