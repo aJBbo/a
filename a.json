@@ -12,7 +12,7 @@
     "key" : "on"
   },
   "new-dispatch" : {
-    "key" : "on"
+    "key" : "off"
   },
   "ignored-dispatch" : {
     "key" : "3"
